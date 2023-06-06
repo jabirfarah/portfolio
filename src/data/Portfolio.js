@@ -17,4 +17,10 @@ export default [
     stack: ["React", "Firebase", "JavaScript"],
     link: "https://github.com/jabirfarah/Noteify",
   },
+  {
+    title: "Discord Geography Bot",
+    imgUrl: "https://i.imgur.com/2YjgZ0A.png",
+    stack: ["Python", "Discord API", "RESTful API"],
+    link: "https://github.com/jabirfarah/Noteify",
+  },
 ];
