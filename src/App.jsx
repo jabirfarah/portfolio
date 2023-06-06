@@ -5,7 +5,7 @@ import Portfolio from "./components/Portfolio";
 import Timeline from "./components/Timeline";
 import Contact from "./components/Contact";
 import Footer from "./components/Footer";
-
+//make sure to add images for your portfolio
 function App() {
   return (
     <div className="App">
@@ -13,6 +13,7 @@ function App() {
       <Portfolio />
       <Timeline />
       <Contact />
+      <Footer />
     </div>
   );
 }
