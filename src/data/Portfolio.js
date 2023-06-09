@@ -1,7 +1,7 @@
 export default [
   {
     title: "MazeMathics",
-    imgUrl: "https://i.imgur.com/2YjgZ0A.png",
+    imgUrl: "../assets/mazemathics.png",
     stack: ["HTML", "CSS", "JavaScript", "NodeJS"],
     link: "https://github.com/jabirfarah/MazeMathics",
   },
