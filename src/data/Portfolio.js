@@ -7,20 +7,20 @@ export default [
   },
   {
     title: "Portfolio Website",
-    imgUrl: "https://i.imgur.com/2YjgZ0A.png",
-    stack: ["React", "TailwindCSS", "ViteJS", "JavaScript"],
+    imgUrl: "",
+    stack: ["React", "TailwindCSS", "Vite", "JavaScript"],
     link: "https://github.com/jabirfarah/portfolio-v1",
   },
   {
     title: "Noteify",
-    imgUrl: "https://i.imgur.com/2YjgZ0A.png",
-    stack: ["React", "Firebase", "JavaScript"],
+    imgUrl: "",
+    stack: ["React", "Firebase", "JavaScript", "CSS"],
     link: "https://github.com/jabirfarah/Noteify",
   },
   {
     title: "Discord Geography Bot",
-    imgUrl: "https://i.imgur.com/2YjgZ0A.png",
+    imgUrl: "../assets/medium.png",
     stack: ["Python", "Discord API", "RESTful API"],
-    link: "https://github.com/jabirfarah/Noteify",
+    link: "https://github.com/jabirfarah/henry-discord-bot",
   },
 ];

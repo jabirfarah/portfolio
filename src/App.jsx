@@ -84,7 +84,7 @@ function App() {
     <button
     type="button"
     onClick={handleThemeSwitch}
-    className="fixed p-2 z-10 top-4 right-20 bg-violet-300 rounded-md text-lg dark:bg-orange-300"
+    className="fixed p-2 z-10 top-4 right-6 bg-violet-300 rounded-md text-lg dark:bg-orange-300"
     >
       {theme === 'dark' ? sun : moon}
     </button>
@@ -96,7 +96,7 @@ function App() {
         <Contact />
         <Footer />
         <button id="to-top-button" onclick="goToTop()" title="Go To Top"
-        class="hidden fixed z-90 bottom-8 right-8 border-0 w-12 h-12 rounded-full drop-shadow-md text-white text-3xl font-bold bg-violet-300 dark:bg-orange-300" onClick={goToTop}>&uarr;</button>s
+        class="hidden fixed z-90 bottom-8 right-6 border-0 w-8 h-8 md:h-12 md:w-12 rounded-full drop-shadow-md text-white md:text-3xl font-bold bg-violet-300 dark:bg-orange-300" onClick={goToTop}>&uarr;</button>
       </div>
     </div>
     </>

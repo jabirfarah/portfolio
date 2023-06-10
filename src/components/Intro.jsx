@@ -1,4 +1,5 @@
 import React from "react";
+import Resume from "../pdf/Jabir Farah's Resume.pdf";
 
 function Intro() {
   return (
@@ -31,7 +32,7 @@ function Intro() {
             </svg>
           </a>
           <a
-            href="https://github.com/jabirfarah"
+            href="https://linkedin.com/in/jabirfarah"
             target="_blank"
             rel="noreferrer noopener"
             className="rounded-lg flex items-center justify-center text-center "
@@ -46,12 +47,18 @@ function Intro() {
             </svg>
           </a>
         </div>
-        
       </div>
-      <button type='submit' className='inline-block text-center px-8 py-3 w-max text-base font-medium rounded-md text-white bg-gradient-to-r from-pink-500 to-yellow-500 drop-shadow-md '>View My Resume</button>
-
+      <a
+        href={Resume}
+        target="_blank"
+        rel="noreferrer noopener"
+        type="button"
+        className="inline-block text-center px-8 py-3 w-max text-base font-medium rounded-md text-white bg-gradient-to-r from-pink-500 to-yellow-500 drop-shadow-md mt-1"
+      >
+        View My Resume
+      </a>
     </div>
   );
-}
+};
 
 export default Intro;
