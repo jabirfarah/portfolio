@@ -7,9 +7,9 @@ function PortfolioItem({ title, imgUrl, stack, link }) {
       href={link}
       target="_blank"
       rel="noreferrer noopener"
-      className="dark:border-white border-2 border-stone-900 rounded-md overflow-hidden "
+      className="dark:border-white border-4 border-stone-900 rounded-md overflow-hidden "
     >
-      <div className="border-2 border-stone-900 rounded-md overflow-hidden">
+      <div className=" rounded-md overflow-hidden">
         <img
           src={imgUrl}
           alt="Portfolio Image"
