@@ -9,7 +9,7 @@ export default [
     title: "Portfolio Website",
     imgUrl: "./assets/portfolio-light-dark.png",
     stack: ["React", "TailwindCSS", "Vite", "JavaScript"],
-    link: "https://github.com/jabirfarah/portfolio-v1",
+    link: "https://github.com/jabirfarah/portfolio",
   },
 
   {
