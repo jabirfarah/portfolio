@@ -1,7 +1,7 @@
 export default [
   {
     title: "MazeMathics",
-    imgUrl: "../assets/mazemathics.png",
+    imgUrl: "./assets/mazemathics.png",
     stack: ["HTML", "CSS", "JavaScript", "NodeJS"],
     link: "https://github.com/jabirfarah/MazeMathics",
   },
@@ -14,7 +14,7 @@ export default [
 
   {
     title: "Discord Geography Bot",
-    imgUrl: "../assets/medium.png",
+    imgUrl: "./assets/medium.png",
     stack: ["Python", "Discord API", "RESTful API"],
     link: "https://github.com/jabirfarah/henry-discord-bot",
   },
