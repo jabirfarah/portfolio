@@ -8,7 +8,7 @@ export default [
   {
     title: "Portfolio Website",
     imgUrl: "./assets/portfolio-light-dark.png",
-    stack: ["React", "TailwindCSS", "Vite", "JavaScript"],
+    stack: ["React", "Tailwind CSS", "Vite"],
     link: "https://github.com/jabirfarah/portfolio",
   },
 
@@ -24,4 +24,10 @@ export default [
 //     stack: ["React", "Firebase", "JavaScript", "CSS"],
 //     link: "https://github.com/jabirfarah/Noteify",
 //   },
+{
+  title: "DataGrowth",
+  imgUrl: "https://raw.githubusercontent.com/jabirfarah/data-finance-website/main/src/assets/landingpage.png?token=GHSAT0AAAAAACCBPFE2BRMJNK7BKJGO4GMGZEGDX4A",
+  stack: ["React", "Tailwind CSS"],
+  link: "https://github.com/jabirfarah/data-finance-website",
+},
 ];
