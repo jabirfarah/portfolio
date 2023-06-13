@@ -2,7 +2,7 @@ import React, { useEffect, useState } from "react";
 import "./styles/tailwind.css";
 import Intro from "./components/intro";
 import Portfolio from "./components/Portfolio";
-import Timeline from "./components/Timeline";
+// import Timeline from "./components/Timeline";
 import Contact from "./components/Contact";
 import Footer from "./components/Footer";
 // make sure to add images for your portfolio
@@ -92,7 +92,7 @@ function App() {
       <div className="max-w-5xl w-11/12 mx-auto">
         <Intro />
         <Portfolio />
-        <Timeline />
+        {/* <Timeline /> */}
         <Contact />
         <Footer />
         <button id="to-top-button" onclick="goToTop()" title="Go To Top"
