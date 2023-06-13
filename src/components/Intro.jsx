@@ -12,7 +12,7 @@ function Intro() {
       </p>
       <p className="text-md max-w-xl mb-6 font-bold">
         I'm a Full-Stack Developer building my version of the digital world one
-        step at a time and creating beautiful experiences through code.
+        step at a time.
       </p>
       <div className="flex flex-row py-2">
         <div className=" flex flex-row gap-3">
