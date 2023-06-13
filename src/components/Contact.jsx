@@ -27,7 +27,7 @@ function Contact() {
                     className='p-2 mb-4 bg-transparent rounded-md border-2 focus:outline-none'
                     >
                     </textarea>
-                    <button type='submit' className='inline-block text-center px-8 py-3 w-max text-base font-medium rounded-md text-white bg-gradient-to-r from-yellow-500 to-pink-500 drop-shadow-md'>Work With Me</button>
+                    <button type='submit' className='inline-block text-center px-8 py-3 w-max text-base font-medium rounded-md text-white bg-gradient-to-r bg-stone-900 dark:bg-white dark:text-stone-700 drop-shadow-md'>Work With Me</button>
                 </form>
             </div>
         </div>

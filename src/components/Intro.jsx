@@ -8,7 +8,7 @@ function Intro() {
         Jabir Farah
       </h1>
       <p className="text-base md:text-xl mb-3 font-medium">
-        Software Engineer and Full-Stack Developer
+        Full-Stack Developer
       </p>
       <p className="text-md max-w-xl mb-6 font-bold">
         I'm a Full-Stack Developer building my version of the digital world one
@@ -53,7 +53,7 @@ function Intro() {
         target="_blank"
         rel="noreferrer noopener"
         type="button"
-        className="inline-block text-center px-8 py-3 w-max text-base font-medium rounded-md text-white bg-gradient-to-r from-pink-500 to-yellow-500 drop-shadow-md mt-1"
+        className="inline-block text-center px-8 py-3 w-max text-base font-medium rounded-md text-white bg-stone-900 dark:bg-white dark:text-stone-700 drop-shadow-md mt-1"
       >
         View My Resume
       </a>

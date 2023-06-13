@@ -9,7 +9,7 @@ function PortfolioItem({ title, imgUrl, stack, link }) {
       rel="noreferrer noopener"
       className="dark:border-white border-4 border-stone-900 rounded-md overflow-hidden "
     >
-      <div className=" rounded-md overflow-hidden">
+      <div className=" rounded-sm overflow-hidden">
         <img
           src={imgUrl}
           alt="Portfolio Image"
