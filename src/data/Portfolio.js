@@ -18,16 +18,11 @@ export default [
     stack: ["Python", "Discord API", "RESTful API"],
     link: "https://github.com/jabirfarah/henry-discord-bot",
   },
-//   {
-//     title: "Noteify",
-//     imgUrl: "",
-//     stack: ["React", "Firebase", "JavaScript", "CSS"],
-//     link: "https://github.com/jabirfarah/Noteify",
-//   },
-{
-  title: "DataGrowth",
-  imgUrl: "https://raw.githubusercontent.com/jabirfarah/data-finance-website/main/src/assets/landingpage.png?token=GHSAT0AAAAAACCBPFE2BRMJNK7BKJGO4GMGZEGDX4A",
-  stack: ["React", "Tailwind CSS"],
-  link: "https://github.com/jabirfarah/data-finance-website",
-},
+
+  {
+    title: "DataGrowth",
+    imgUrl: "https://raw.githubusercontent.com/jabirfarah/data-finance-website/main/src/assets/landingpage.png?token=GHSAT0AAAAAACCBPFE2BRMJNK7BKJGO4GMGZEGDX4A",
+    stack: ["React", "Tailwind CSS"],
+    link: "https://github.com/jabirfarah/data-finance-website",
+  },
 ];
