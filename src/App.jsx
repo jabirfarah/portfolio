@@ -1,11 +1,11 @@
 import React, { useEffect, useState } from "react";
 import "./styles/tailwind.css";
-import Intro from "./components/intro";
+import Intro from "./components/Intro";
 import Portfolio from "./components/Portfolio";
 // import Timeline from "./components/Timeline";
 import Contact from "./components/Contact";
 import Footer from "./components/Footer";
-// make sure to add images for your portfolio
+
 function App() {
   const [theme, setTheme] = useState(null);
   useEffect(() => {
