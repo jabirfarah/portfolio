@@ -1,5 +1,5 @@
 import React, { useEffect, useState } from "react";
-import "./styles/tailwind.css";
+import "./tailwind.css";
 import Intro from "./components/Intro";
 import Portfolio from "./components/Portfolio";
 // import Timeline from "./components/Timeline";
