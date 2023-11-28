@@ -2,7 +2,7 @@ export default [
   {
     title: "Coco.",
     imgUrl: "./assets/Coco.png",
-    stack: ["React", "Tailwind CSS", "JavaScript", "NodeJS", "GraphQL", "RESTful API's"],
+    stack: ["React", "Tailwind CSS", "JavaScript", "NodeJS", "GraphQL", "RESTful API"],
     link: "https://coco-sand.vercel.app/",
   },
   {
